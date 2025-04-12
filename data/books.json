@@ -1,0 +1,26 @@
+[
+  {
+    "book_id": "1",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": 1949,
+    "copies": 10
+  },
+  {
+    "book_id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "year": 1960,
+    "copies": 8
+  },
+  {
+    "book_id": "5",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "year": 1851,
+    "copies": 4
+  }
+]
